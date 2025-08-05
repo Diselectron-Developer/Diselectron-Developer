@@ -1,65 +1,57 @@
-Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi nombre es Andres Eduardo Paez
-===========================================================================================================================================
+# 👨‍💻 
 
----------------------
-# 👨‍💻 Eduardo Páez | Aprendiendo a dominar el código desde cero
-
-¡Hola! Soy Andrés Eduardo, un aprendiz en modo 🔥 *"no hay vuelta atrás"*. Estoy en el camino para convertirme en un desarrollador full stack, explorando los lenguajes que hacen posible la magia detrás del software.
+¡Hola! Soy Andrés Eduardo, un desarrollador en formación y apasionado por la electrónica. Estoy en modo 🔥 *"aprende, construye, enseña"*. Combino software y hardware para crear proyectos funcionales y educativos.
 
 ## 🚀 ¿Qué estoy aprendiendo ahora?
 
-- 🐍 **Python** – desde scripts automatizados hasta desarrollo web.
-- ⚙️ **Back-end** – jugando con servidores, APIs y bases de datos.
-- 🧠 **JavaScript** – entendiendo cómo piensan los navegadores (y a veces peleando con ellos).
-- 🌐 En camino a conectar todo en proyectos reales y funcionales.
+- 🐍 **Python** – scripts, automatización, desarrollo web y más.
+- ⚙️ **Back-end** – APIs, servidores y lógica de negocio.
+- ⚡ **JavaScript** – desde lo básico hasta proyectos con Node.js y front-end.
+- 📟 **Electrónica aplicada** – con sistemas embebidos como:
+  - Arduino
+  - Raspberry Pi
+  - PIC
+  - PSOC
 
-## 🛠️ Herramientas que estoy tocando sin miedo
+## 🔧 También desarrollo proyectos de electrónica
 
-- Visual Studio Code
-- Git y GitHub (obvio)
-- Postman
-- Node.js
-- MongoDB y SQL
-- Flask (iniciando...)
+Creo prototipos, experimento con sensores, módulos y microcontroladores. Me encanta llevar ideas al mundo físico con código y componentes reales.
 
-## 🧪 Aprendo haciendo
+🎥 **Subo videos a YouTube** explicando conceptos de electrónica, circuitos, microcontroladores y herramientas de diseño. Todo pensado para que *la teoría se entienda con la práctica*.
 
-Creo pequeños proyectos, los rompo, los vuelvo a armar. Algunos están aquí documentados, otros aún están en mi cabeza... pero todos tienen una sola meta: entender cómo se construyen sistemas que funcionen.
+🔗 [Mi canal de YouTube](https://www.youtube.com/@EduardoPaez_Ingeniero)
 
-> 💡 *"No importa si fallas en el primer intento, lo importante es tener el código bajo control en el segundo."*
+## 🧪 Repositorios como laboratorio de aprendizaje
+
+En mis repositorios encontrarás:
+
+- Proyectos de programación con Python, JS y más.
+- Diseño y simulación de circuitos electrónicos.
+- Códigos para microcontroladores (Arduino, PIC, etc.).
+- Scripts y material de apoyo para mi labor docente.
+- Apuntes, ejercicios y pruebas de concepto que documentan mi proceso de aprendizaje.
+
+> 💡 *"Aprender no es memorizar comandos, es construir soluciones paso a paso."*
 
 ## 🌱 Roadmap en curso
 
-- [x] Primeros scripts en Python  
 - [x] CRUD básico con Flask  
-- [ ] API REST propia  
-- [ ] Proyecto full stack simple (Frontend + Backend + DB)  
-- [ ] Contribuir a un proyecto open source
+- [x] Comunicaciones entre Python y Arduino  
+- [x] Proyectos educativos con Raspberry Pi  
+- [ ] Backend para registrar datos de sensores  
+- [ ] Proyecto full stack con dashboard para monitoreo  
+- [ ] Canalizar mis cursos en línea con material open source
 
 ---
 
-### 🧠 Mentalidad de desarrollador:  
-No busco aprenderlo *todo*, busco aprender *lo esencial* para crear soluciones reales. Porque el código no es teoría: el código *vive*.
+### 🧠 Mentalidad de desarrollador/hacedor:  
+Código y hardware no son dos mundos separados. Aprender uno potencia al otro. Mi enfoque es: *crear, fallar, entender, documentar y compartir.*
 
 ---
-
-🐍 Próximo proyecto: un backend que no explote a los 5 minutos 😅  
-
-Soy ingeniero electrónico con maestría en darle sentido a esos diagramas y ecuaciones que parecen hechizos mágicos. En el día a día, diseño, analizo y optimizo circuitos, pero cuando cae la noche (o cuando tengo un rato libre), enciendo la cámara y desmitifico la electrónica en YouTube. Explico desde lo básico hasta lo más complejo, sin aburrir ni soltar un manual de 500 páginas en la cara.
-
-✅ Creación de contenido educativo sin filtros ni formalismos aburridos 🎥
-
-✅Si te apasiona la ingeniería, quieres aprender o simplemente necesitas a alguien que te ayude a descifrar por qué tu circuito no funciona (\*spoiler: revisa las conexiones primero\*), aquí estoy.
-
-✅¿Intercambiamos ideas? eduardopaezingenieria@outlook.com. Escríbeme y hablemos de electrónica. 🤘😎
-
-#IngenieríaElectrónica #Circuitos #AprenderHaciendo
-
 * 🌍  Vivo en Colombia
 * ✉️  Puedes contactarme en: [eduardopaezingenieria@outlook.com](mailto:eduardopaezingenieria@outlook.com)
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" title="rlang"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" title="Swift"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a>
