@@ -2,6 +2,48 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 ===========================================================================================================================================
 
 ---------------------
+# 👨‍💻 Eduardo Páez | Aprendiendo a dominar el código desde cero
+
+¡Hola! Soy Andrés Eduardo, un aprendiz en modo 🔥 *"no hay vuelta atrás"*. Estoy en el camino para convertirme en un desarrollador full stack, explorando los lenguajes que hacen posible la magia detrás del software.
+
+## 🚀 ¿Qué estoy aprendiendo ahora?
+
+- 🐍 **Python** – desde scripts automatizados hasta desarrollo web.
+- ⚙️ **Back-end** – jugando con servidores, APIs y bases de datos.
+- 🧠 **JavaScript** – entendiendo cómo piensan los navegadores (y a veces peleando con ellos).
+- 🌐 En camino a conectar todo en proyectos reales y funcionales.
+
+## 🛠️ Herramientas que estoy tocando sin miedo
+
+- Visual Studio Code
+- Git y GitHub (obvio)
+- Postman
+- Node.js
+- MongoDB y SQL
+- Flask (iniciando...)
+
+## 🧪 Aprendo haciendo
+
+Creo pequeños proyectos, los rompo, los vuelvo a armar. Algunos están aquí documentados, otros aún están en mi cabeza... pero todos tienen una sola meta: entender cómo se construyen sistemas que funcionen.
+
+> 💡 *"No importa si fallas en el primer intento, lo importante es tener el código bajo control en el segundo."*
+
+## 🌱 Roadmap en curso
+
+- [x] Primeros scripts en Python  
+- [x] CRUD básico con Flask  
+- [ ] API REST propia  
+- [ ] Proyecto full stack simple (Frontend + Backend + DB)  
+- [ ] Contribuir a un proyecto open source
+
+---
+
+### 🧠 Mentalidad de desarrollador:  
+No busco aprenderlo *todo*, busco aprender *lo esencial* para crear soluciones reales. Porque el código no es teoría: el código *vive*.
+
+---
+
+🐍 Próximo proyecto: un backend que no explote a los 5 minutos 😅  
 
 Soy ingeniero electrónico con maestría en darle sentido a esos diagramas y ecuaciones que parecen hechizos mágicos. En el día a día, diseño, analizo y optimizo circuitos, pero cuando cae la noche (o cuando tengo un rato libre), enciendo la cámara y desmitifico la electrónica en YouTube. Explico desde lo básico hasta lo más complejo, sin aburrir ni soltar un manual de 500 páginas en la cara.
 
